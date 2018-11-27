@@ -1,2 +1,2 @@
-# Java-OPP-Basic
-Java-OPP-Basic - SoftUni course
+# Java-OOP-Basic
+Java-OOP-Basic - SoftUni course
